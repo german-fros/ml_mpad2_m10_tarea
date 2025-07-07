@@ -9,7 +9,7 @@ Proyecto 2 - agrupar correctamente jugadores con estilo de juego similar
 
 ## Contexto del Problema
 P1 -
-    * (fictício) La directiva de un club uruguayo, junto con su cuerpo técnico, desea diseñar una herramienta que le permita evaluar jornada a jornada el desempeño de su equipo y a qué posiciones en la tabla puede aspirar a final de temporada.
+    * (fictício) La directiva de un club uruguayo, junto con su cuerpo técnico, desea diseñar una herramienta que le permita evaluar jornada a jornada el desempeño de su equipo y a qué posiciones en la tabla aspira a final de temporada basado en su rendimiento.
 
 P2 -
     * (fictício) La dirección deportiva de un club uruguayo quiere clasificar a todos los jugadores del fútbol uruguayo según sus características, agrupándolos en diferentes perfiles de jugador
