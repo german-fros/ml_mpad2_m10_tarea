@@ -8,14 +8,12 @@ This is a data science project template following the CRISP-DM (Cross-Industry S
 
 ## Commands
 
-### Environment Setup
-```bash
-# Activate virtual environment
-venv\Scripts\activate     # Windows
-
-# Run main script
-python src/main.py
-```
+- NO activar venv en comandos bash
+- Generar código Python puro sin preocuparse por
+  dependencias
+- Asumir que pandas, numpy, etc. están disponibles
+- Enfocarse en lógica de análisis, no en configuración de
+  entorno
 
 ## Architecture
 
