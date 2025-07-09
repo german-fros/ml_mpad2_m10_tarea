@@ -9,7 +9,6 @@ Esta estructura está diseñada para proyectos de ciencia de datos siguiendo la 
 - `notebooks/`: Notebooks de análisis exploratorio y pruebas.
 - `src/`: Scripts fuente reutilizables. Incluye `main.py` como punto de entrada.
 - `models/`: Modelos entrenados guardados (.pkl, .joblib, etc.).
-- `reports/`: Figuras y reportes exportados para presentaciones.
 - `docs/`: Documentación estructurada por fases CRISP-DM.
   - `img/`: Visuales incluidas en los documentos.
   - `reports/`: Informes generados (PDFs, presentaciones).
