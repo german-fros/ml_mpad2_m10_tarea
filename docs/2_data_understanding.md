@@ -108,6 +108,5 @@ Los datos provienen de 6 archivos Excel que contienen información completa de l
 ## Problemas Detectados Globales
 
 1. **Inconsistencia en Tipos de Datos**: Scores como float en 2022, int en 2023-2024
-2. **Datos de Asistencia**: Completamente faltantes en todos los archivos de partidos
-3. **Columnas Redundantes**: Varias columnas completamente vacías
+2. **Columnas dispensables**: existen varias columnas las cuales deben ser removidas, ya que no aportan nada al modelo
 4. **Transferencias**: Jugadores que cambiaron de equipo pueden tener registros duplicados
