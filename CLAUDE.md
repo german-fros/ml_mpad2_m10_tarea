@@ -39,7 +39,7 @@ The project follows a structured approach with distinct phases:
 - `docs/` - Project documentation and phase templates
 
 ### Key Files
-- `src/main.py` - Main entry point for the project
+- `notebooks/*.ipynb` - Main project's notebooks
 - `docs/experiments_log.md` - Experiment tracking table
 - `docs/structure_explained.md` - Detailed project structure documentation
 
@@ -266,23 +266,8 @@ Index(['account_id', 'team_name', 'team_id', 'competition_id',
 
 ### Estilo de Código
 - **Naming:** camelCase
-- **Manejo de errores:** try/catch obligatorio
-
-### Commits Git
-Después de validar modificaciones, generar commits siguiendo esta estructura:
-
-| Prefix | Uso |
-|--------|-----|
-| `feat:` | Nueva funcionalidad |
-| `fix:` | Corregir error o bug |
-| `chore:` | Tareas de mantenimiento, refactor, setup sin impacto en funcionalidades |
-| `refactor:` | Reescrituras internas que no cambian el comportamiento |
-| `docs:` | Actualizar documentación |
-| `style:` | Cambios visuales o de formato sin afectar lógica |
-| `test:` | Agregar o modificar pruebas automatizadas |
+- **Manejo de errores:** try/catch obligatorio junto con un sistema de logging
 
 ### Workflow
 1. Desarrollar y validar cambios en notebook
 2. Confirmar que modificaciones son correctas
-3. Generar commits categorizados por tipo de cambio
-4. Un commit por cada tipo de modificación realizada
